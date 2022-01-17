@@ -1,0 +1,20 @@
+{
+  "name": "refazendo-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add --all && git commit -m\"Default\"&& git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0rgesgabriel/Last-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0rgesgabriel/Last-Test/issues"
+  },
+  "homepage": "https://github.com/b0rgesgabriel/Last-Test#readme"
+}
